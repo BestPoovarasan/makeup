@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Bree+Serif&family=Cinzel&family=Crete+Round&family=Fredoka+One&family=Graduate&family=Iceland&family=Nosifer&family=Play&family=Sanchez&display=swap');
+
+:root {
+    --woodcolor: #deb887;
+    --TextColor: #132241;
+    --primary: #1266f1;
+    --sucess: #09d15e;
+    --sucess1: #8bed4f;
+    --background: #fcc7e6;
+    --nosiferfont: 'Nosifer', cursive;
+    --aldrichfont: 'Aldrich', sans-serif;
+    --Graduate: 'Graduate', cursive;
+    --createserif: 'Crete Round', serif;
+    --pinky: #FF0099;
+    --indigo: #6610f2;
+}
+
+* {
+    color: #2B2E3B;
+
+}
+
+body {
+
+    background-color: var(--background);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1200' height='560' preserveAspectRatio='none' viewBox='0 0 1200 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1062%26quot%3b)' fill='none'%3e%3cpath d='M143.596%2c482.337C169.446%2c482.397%2c197.76%2c477.37%2c210.548%2c454.905C223.245%2c432.6%2c212.148%2c406.305%2c199.632%2c383.898C186.68%2c360.71%2c170.14%2c335.961%2c143.596%2c335.042C115.956%2c334.086%2c93.845%2c355.595%2c80.414%2c379.772C67.421%2c403.161%2c63.149%2c431.813%2c77.182%2c454.594C90.669%2c476.487%2c117.882%2c482.277%2c143.596%2c482.337' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M240.89187844949365 478.788960873546L162.4938033752229 370.66672640084715 113.15429758327554 476.47563802619976z' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M232.04 184.28 a99.35 99.35 0 1 0 198.7 0 a99.35 99.35 0 1 0 -198.7 0z' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M533.99 447.43 a113.13 113.13 0 1 0 226.26 0 a113.13 113.13 0 1 0 -226.26 0z' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M957.81%2c284.179C1006.835%2c283.148%2c1047.388%2c251.705%2c1073.369%2c210.118C1101.345%2c165.338%2c1120.791%2c110.259%2c1095.382%2c63.974C1069.27%2c16.408%2c1012.036%2c-2.356%2c957.81%2c-0.387C907.126%2c1.453%2c861.855%2c29.438%2c836.519%2c73.373C811.207%2c117.267%2c808.243%2c171.246%2c833.512%2c215.164C858.844%2c259.191%2c907.027%2c285.247%2c957.81%2c284.179' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M716.758690371511 297.6875052904754L721.7905948907597 395.48518364542684 794.3865971868435 350.1221667394649z' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M177.851%2c75.715C195.666%2c75.302%2c210.594%2c64.844%2c220.686%2c50.157C232.74%2c32.614%2c245.043%2c11.192%2c235.129%2c-7.643C224.822%2c-27.226%2c199.981%2c-31.361%2c177.851%2c-31.227C156.017%2c-31.095%2c132.378%2c-26.036%2c121.765%2c-6.955C111.351%2c11.768%2c119.405%2c34.496%2c131.433%2c52.225C141.868%2c67.605%2c159.27%2c76.146%2c177.851%2c75.715' fill='rgba(227%2c 126%2c 172%2c 0.56)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1062'%3e%3crect width='1200' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+
+.navbar {
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+.navbar-brand {
+    background: linear-gradient(to right, #FF0099, #493240);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: var(--nosiferfont);
+
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+#card1 {
+    height: 300px;
+
+}
+
+.btn-pink-moon {
+    background: #ec008c;
+    background: linear-gradient(to right, #FF0099, #493240);
+    color: #fff;
+    border-radius: 10px;
+    width: 120px;
+
+}
+
+h6 {
+    background: linear-gradient(to right, #f7b733, #fc4a1a);
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    overflow: hidden;
+    text-transform: uppercase;
+
+}
+
+h5 {
+    text-transform: uppercase;
+    font-family: var(--Graduate);
+}
+img {
+    align-items: center;
+}
